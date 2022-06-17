@@ -21,3 +21,11 @@ CE-10: Prime numbers.
 CE-11: Find nCr.
 ![image](https://user-images.githubusercontent.com/73904891/174156728-2a9249bc-d226-457e-a9b4-df1064ddb3be.png)
 CE-12:
+![image](https://user-images.githubusercontent.com/73904891/174396292-6cd045b6-a53a-490b-8a30-20e9503c954f.png)
+CE-13:
+![image](https://user-images.githubusercontent.com/73904891/174396403-7d1f801b-bc24-4c11-b638-89e07fb91fe4.png)
+CE-14:
+![image](https://user-images.githubusercontent.com/73904891/174396667-a0f7954a-1f50-43c1-b266-c4e0db22bef5.png)
+CE-15:
+![image](https://user-images.githubusercontent.com/73904891/174396756-09318e8a-38bc-4304-a38d-93074e1c6691.png)
+CE-16:
