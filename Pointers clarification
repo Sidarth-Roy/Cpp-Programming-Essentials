@@ -1,0 +1,47 @@
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+int main() {
+    // Write C++ code here
+   int x=10;
+   cout<<&x;
+   int *xptr;
+
+  xptr=&x; //xptr is int* AND x is int BUT &x is int*  
+           // it stores address
+   cout << endl<<xptr<<endl<<x<<endl<<*xptr<<endl;
+   x++;
+   cout<<x<<endl<<*xptr<<endl;
+   /*
+  *xptr=x;//xptr is int AND &x is int* BUT x is int
+          //it stores value
+   cout << endl<<xptr<<endl<<x<<endl<<*xptr<<endl;
+   x++;
+   cout<<x<<endl<<*xptr;
+*/
+    return 0;
+}
+
+
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+
+
+int main() {
+    // Write C++ code here
+   int x=10;
+   int *ptr;
+//   *ptr=x;// in this ptr contains address of itself
+   ptr=&x; // in this ptr contains address of x
+   cout<<x<<endl<<&x<<endl;
+   cout<<ptr<<endl<<*ptr<<endl<<&ptr<<endl;
+   cout<<++(*ptr)<<endl<<endl;
+  (*ptr)++;
+  x++;
+   cout<<x<<endl<<&x<<endl;
+   cout<<ptr<<endl<<*ptr<<endl<<&ptr<<endl;
+   cout<<*ptr+1<<endl;
+//   cout<<*ptr++;
+    return 0;
+}
