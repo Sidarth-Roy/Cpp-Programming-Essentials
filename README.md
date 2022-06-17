@@ -14,7 +14,6 @@ CE-6: Check Prime Number
 CE-7: Factorial.
 ![image](https://user-images.githubusercontent.com/73904891/174156237-0fe0f651-3cd7-43ca-9cbc-ec775bd73e81.png)
 CE-8: Power function.
-
 ![image](https://user-images.githubusercontent.com/73904891/174397466-da6986f2-6823-4dba-a935-ce885a175fea.png)
 CE-9: Greatest common divisor.
 ![image](https://user-images.githubusercontent.com/73904891/174156456-e882184d-f99d-4e0a-823e-f6ff108d69a6.png)
