@@ -18,3 +18,4 @@ pair<int, int> largestAndSmallest(int A[], int sizeOfArray) {
 
         return make_pair(l,s);
 }
+// New concept of make_pair
