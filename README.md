@@ -50,3 +50,34 @@ CE-24:Sum of even numbers
 ![image](https://user-images.githubusercontent.com/73904891/174472069-6496f8a9-15be-4714-b301-cd77ecc3b6f0.png)
 CE-25: Sum of all diagonal elements
 ![image](https://user-images.githubusercontent.com/73904891/174472087-dced751c-a4b6-4822-a215-2179f2244086.png)
+CE-26:Largest character.
+![image](https://user-images.githubusercontent.com/73904891/174479104-6eccaa8a-e3f8-4a70-b392-a34e6772909f.png)
+CE-27: Largest frequency character.
+![image](https://user-images.githubusercontent.com/73904891/174479187-f2d8598f-d5e8-4cd0-b657-6799520bafad.png)
+CE-28: Is character array sorted ?
+![image](https://user-images.githubusercontent.com/73904891/174479211-4af21b71-96a7-4e58-a4ba-95cf35d31575.png)
+CE-29: Count of unique characters
+![image](https://user-images.githubusercontent.com/73904891/174479228-d43fcc73-4a30-4773-9ae4-1263e4cbc2b1.png)
+CE-30: Rotate the matrix.
+![image](https://user-images.githubusercontent.com/73904891/174479299-317bb708-524e-43e6-86ce-781e6673c804.png)
+CE-31: Is String a palindrome?
+![image](https://user-images.githubusercontent.com/73904891/174479344-c90042fa-dc64-4b81-9134-6cb43d8861ac.png)
+CE-32: Largest Frequency character
+![image](https://user-images.githubusercontent.com/73904891/174479365-cfb8b7c4-f89f-4e89-8f4e-7bd381db2ad3.png)
+CE-33: All Alphabets present or not ?
+![image](https://user-images.githubusercontent.com/73904891/174479382-fa134e62-36ce-4d8a-a171-88f639938193.png)
+CE-34: Given string can be formed or not ?
+![image](https://user-images.githubusercontent.com/73904891/174479409-f1ba4ce0-3978-4dd0-aede-0f00629a19fc.png)
+CE-35: Sum of all elements below main diagonal.
+![image](https://user-images.githubusercontent.com/73904891/174479426-20b723a0-a7e7-47aa-a8d6-b0d55c87df71.png)
+CE-41: Fibonacci number
+![image](https://user-images.githubusercontent.com/73904891/174479483-2d4cd5be-8932-40ed-9585-053d99608e82.png)
+CE-42: Factorial using recursion
+![image](https://user-images.githubusercontent.com/73904891/174479512-7a2103ce-5b7a-43cc-849c-4a7ef25bb2b3.png)
+CE-43: Sum of digits
+![image](https://user-images.githubusercontent.com/73904891/174479548-3949d095-4f85-4441-8d30-8ead740531c5.png)
+CE-44: Fibonacci series 2
+![image](https://user-images.githubusercontent.com/73904891/174479582-b039213e-7a9d-47b9-a225-e69c8877a116.png)
+CE-45: Binomial Coefficient
+![image](https://user-images.githubusercontent.com/73904891/174479600-58abbdd3-5211-4f81-9996-e122be5396fb.png)
+
