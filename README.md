@@ -70,6 +70,16 @@ CE-34: Given string can be formed or not ?
 ![image](https://user-images.githubusercontent.com/73904891/174479409-f1ba4ce0-3978-4dd0-aede-0f00629a19fc.png)
 CE-35: Sum of all elements below main diagonal.
 ![image](https://user-images.githubusercontent.com/73904891/174479426-20b723a0-a7e7-47aa-a8d6-b0d55c87df71.png)
+CE-36: Count of set bit.
+![image](https://user-images.githubusercontent.com/73904891/174977734-b172e574-cc8a-4275-a87d-80f1eaddec90.png)
+CE-37: Power of two.
+![image](https://user-images.githubusercontent.com/73904891/174977815-f32e75c8-652a-41aa-8eaa-0a0370fc8105.png)
+CE-38: Divide a integer without Division operator
+![image](https://user-images.githubusercontent.com/73904891/174977904-88046a12-dc95-4434-88cd-65ef7cf03ac5.png)
+CE-39: Find square of a number without multiplication or divisor.
+![image](https://user-images.githubusercontent.com/73904891/174978154-4954d5ed-60b3-4c7f-87b4-b331fbe09224.png)
+CE-40: Find a number which is singly present.
+![image](https://user-images.githubusercontent.com/73904891/174978308-d294f9d6-c884-4e2c-8557-ca38c4ec6e90.png)
 CE-41: Fibonacci number
 ![image](https://user-images.githubusercontent.com/73904891/174479483-2d4cd5be-8932-40ed-9585-053d99608e82.png)
 CE-42: Factorial using recursion
@@ -80,4 +90,5 @@ CE-44: Fibonacci series 2
 ![image](https://user-images.githubusercontent.com/73904891/174479582-b039213e-7a9d-47b9-a225-e69c8877a116.png)
 CE-45: Binomial Coefficient
 ![image](https://user-images.githubusercontent.com/73904891/174479600-58abbdd3-5211-4f81-9996-e122be5396fb.png)
+
 
